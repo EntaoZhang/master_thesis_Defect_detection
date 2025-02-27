@@ -1,0 +1,29 @@
+---
+title: "Thesis Proposal"
+subtitle: "First meeting"
+format:
+  revealjs: 
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+resources:
+  - first.pdf
+---
+# Part I: Defect detection 
+
+
+
+
+
+
+
+
+
+# Part II: NLP application 
+
+For NLP part, create a interactive troubleshooting interface for 3D pringting error which can 
+
+- Generate diagnostic reports that combine image data (defect classification) with metadata (e.g., ex_mul, layer, printbed_color) and domain knowledge (e.g., extrusion physics).
+- Create a visual question-answering (VQA) system where users ask troubleshooting questions about the print (e.g., "Why are there gaps in layer 20?").
+- Build a text-image cross-modal search system that allows users to query specific fault cases (such as "wire drawing defects on the silver print bed") in natural language.
